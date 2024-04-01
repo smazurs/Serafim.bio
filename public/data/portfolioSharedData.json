@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Serafim Mazurs",
+      "titles": [ "Computer Engineering Student", "Avid Learner", "LinkedIn Marketing Consultant"],
+      "social": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/smazurs",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://linkedin.com/in/serafimmazurs",
+          "class": "fab fa-linkedin-in"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/smazurs",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "images/head_shot.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java"
+        },
+        {
+          "name": "C++"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "C#"
+        },
+        {
+          "name": "PHP"
+        },
+        {
+          "name": "HTML 5"
+        },
+        {
+          "name": "CSS 3"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "TypeScript"
+        },
+        {
+          "name": "JavaScript"
+        }
+      ]
+    }
+  }
