@@ -26,8 +26,6 @@ export const Projects: FunctionComponent<Props> = (props) => {
     if (!(resumeProjects && resumeBasicInfo)) return <div />;
     const sectionName = resumeBasicInfo.section_name.projects;
     const projects = resumeProjects.map(function (projects) {
-        /* TODO: Add pictures for all projects */
-        // const projectImage = 'images' in projects ? (projects.images as [string]) : [];
         const projectImage: string[] = [];
         return (
             <div className='col-sm-12 col-md-6 col-lg-4' key={projects.title} style={{ cursor: 'pointer' }}>
