@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Welcome to my corner of the web! I'm Serafim, a passionate individual with a dual identity. I'm a dedicated Computer Engineering student as well as a full-time Marketing Consultant at LinkedIn. My journey in the world of technology is fueled by curiosity and creativity. One of the highlights of my journey so far was clinching the Best UI/UX Award at GrizzHacks 6. At this hackathon, I showcased my skills by developing an innovative app that facilitates secure RF handshakes to validate crypto transactions. This project not only pushed the boundaries of my technical abilities but also highlighted my commitment to creating solutions that are not just functional but user-friendly and aesthetically pleasing.\n\n I am currently enrolled in three classes; Networking Concepts (CIS-1300), Informal Logic (PHI-1710), & HTML5 Programming (CIS-1420), working towards obtaining my Associate in Applied Science, Computer Software Engineering at Oakland Community College.\n\n Before my career in technology, I played hockey for 15 years, playing my last season for the Oakland University ACHA D1 team. Outside of hockey, I have been an editorial photographer for a good 5+ years, shooting for music artists, brands, and magazines. Due to my creative side, I enjoy watching, reviewing, and breaking down films with my friends. My current favorite films are Dune and Dune Part 2. Watching these films has also inspired me to begin reading the books to understand even more of the story that I loved to watch on the big screen. ",
+    "section_name": {
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "WaveWallet",
+      "startDate": "Mar 2024",
+      "description": "This project was awarded best UI/UX at Grizzhacks 6, and demonstrates how to integrate an Arduino RF handshake process with a Next.js application to approve Ethereum transactions before sending them through Metamask. The handshake is performed between two Arduino devices communicating via RF waves, utilizing frequency hopping to increase security and prevent unauthorized interception of the communication.",
+      "images": [
+      ],
+      "url": "https://github.com/smazurs/WaveWallet",
+      "technologies": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "TypeScript"
+        },
+        {
+          "name": "C++"
+        },
+        {
+          "name": "Javascript"
+        },
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Ultrasonic Radar Sweeper",
+      "startDate": "Jan 2024",
+      "description": "A simple ultrasonic radar sweeper using Arduino. The device is equipped with an SG90 Micro-servo motor and an Ultrasonic Sensor (HC-SR04). The radar sweeps in front of it, and a beep is triggered every time an obstacle is detected.",
+      "images": [
+      ],
+      "url": "https://github.com/smazurs/Ultrasonic-radar-sweep",
+      "technologies": [
+        {
+          "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Knight Bot",
+      "startDate": "Jan 2024",
+      "description": "A Discord bot with user authentication via custom captcha, custom messaging, server status, and more! The bot is designed to run on my Discord server and is built using the discord.py library. ",
+      "images": [
+      ],
+      "url": "https://github.com/smazurs/Basic-bot",
+      "technologies": [
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Serafim.bio",
+      "startDate": "Feb 2024",
+      "description": "This is the project you are currently viewing. It is a simple JSON-based portfolio website that I built to showcase my projects, skills, and experience. The website is built using React and is hosted on GitHub Pages. The website is designed to be easily customizable and can be used by anyone to showcase their own projects and experience.",
+      "images": [
+      ],
+      "url": "https://github.com/smazurs/serafim.bio",
+      "technologies": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "TypeScript"
+        },
+        {
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "SpotiStats",
+      "startDate": "Feb 2024",
+      "description": "SpotiStats is a Python script that leverages the Spotify API to provide users with insights into their music listening habits. With SpotiStats, you can easily retrieve information about the current now playing song, your top 5 artists, and your 5 recently played songs.",
+      "images": [
+      ],
+      "url": "https://github.com/smazurs/spotiStats",
+      "technologies": [
+        {
+          "name": "Python"
+        }
+      ]
+    }
+    
+  ],
+  "experience": [
+    {
+      "company": "Hour Media",
+      "title": "Digital Media Intern",
+      "years": "Aug 2021 – Dec 2021",
+      "mainTech": [
+   
+      ],
+      "technologies": [
+
+      ],
+      "class": "fa-regular fa-comments"
+    },
+    {
+      "company": "Oakland Univeristy",
+      "title": "Bachelor of Business Administration in Marketing",
+      "years": "Sep 2021 – Postponed",
+      "mainTech": [
+   
+      ],
+      "technologies": [
+
+      ],
+      "class": "fas fa-university"
+    },
+    {
+      "company": "LinkedIn",
+      "title": "Marketing Support Specialist",
+      "years": "Jan 2022 – Present",
+      "mainTech": [
+        
+      ],
+      "technologies": [
+      
+      ],
+      "class": "fa-brands fa-linkedin"
+    },
+    {
+      "company": "Oakland Community College",
+      "title": "Associate in Applied Science, Computer Software Engineering",
+      "years": "Sep 2023 – Present",
+      "mainTech": [
+      ],
+      "technologies": [
+
+      ],
+      "class": "fas fa-university"
+    }
+  ]
+}
