@@ -1,4 +1,4 @@
-/* More icons at: https://devicon.dev */
+/* Icons from: https://devicon.dev */
 const DEV_TECH_MAP: Map<string, string> = new Map([
     ['amazon web service', 'devicon-amazonwebservices-plain'],
     ['android', 'devicon-android-plain'],
