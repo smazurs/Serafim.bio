@@ -9,7 +9,6 @@ import { ProjectsEntity, createIcon } from '.';
 type Props = {
     data?: ProjectsEntity;
     onHide: () => void;
-    /* Figure out how to extend from modal props https://react-bootstrap.github.io/components/modal/#modals-props*/
     show?: boolean;
     animation?: boolean;
     autoFocus?: boolean;
