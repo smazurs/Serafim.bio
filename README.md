@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! You can explore my work and learn more
 
 Built with React.js, this site offers insights into my professional journey, projects, and skills. It's designed to engage recruiters, peers, and anyone curious about my work. Explore my projects, skills, and connect with me!
 
-![Demo](/public/demogif.gif)
+https://github.com/smazurs/Serafim.bio/assets/97854030/94edd027-97df-45c6-a131-974bf4118cd6
 
 ## Technologies Used
 
